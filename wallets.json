@@ -1,5 +1,5 @@
 [
-  {"0x1162A2E340C3b6b845E2993eE6807aC67Ff4230C": [0]},
-  {"0xcaeEA8351Bd06e89AC32bb156bF15335d862dF9b": [1]},
-  {"0x2acdc02A641BE9CBC4C46a3Ac6B8C6EA3b4dFcCc": [1]}
+  {"address": "0x1162A2E340C3b6b845E2993eE6807aC67Ff4230C", "wallet": [0]},
+  {"address": "0xcaeEA8351Bd06e89AC32bb156bF15335d862dF9b", "wallet": [1]},
+  {"address": "0x2acdc02A641BE9CBC4C46a3Ac6B8C6EA3b4dFcCc", "wallet": [1]}
 ]
