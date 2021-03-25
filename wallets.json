@@ -1,7 +1,6 @@
 [
   {"address": "0x1162A2E340C3b6b845E2993eE6807aC67Ff4230C", "wallet": [0]},
   {"address": "0xcaeEA8351Bd06e89AC32bb156bF15335d862dF9b", "wallet": [1]},
-  {"address": "0x1002CA2d139962cA9bA0B560C7A703b4A149F6e0", "wallet": [2]},
-  {"address": "0x1002CA2d139962cA9bA0B560C7A703b4A149F6e0", "wallet": [3]},
+  {"address": "0x1002CA2d139962cA9bA0B560C7A703b4A149F6e0", "wallet": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]},
   {"address": "0x2acdc02A641BE9CBC4C46a3Ac6B8C6EA3b4dFcCc", "wallet": [1]}
 ]
